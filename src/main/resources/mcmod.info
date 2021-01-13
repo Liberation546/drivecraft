@@ -1,0 +1,16 @@
+[
+    {
+        "modid": "drivecraft",
+        "name": "Drivecraft",
+        "description": "",
+        "version": "${version}",
+        "mcversion": "${mcversion}",
+        "url": "",
+        "updateUrl": "",
+        "authorList": [],
+        "credits": "",
+        "logoFile": "",
+        "screenshots": [],
+        "dependencies": []
+    }
+]
